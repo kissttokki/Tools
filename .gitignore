@@ -1,0 +1,5 @@
+UguiLibrary/.vsconfig
+library/
+.vs/
+obj/
+logs/
