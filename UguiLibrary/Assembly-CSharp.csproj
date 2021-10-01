@@ -53,7 +53,12 @@
     <UnityVersion>2021.1.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\JJaery\uGUI\RecyclingScrollView\UIRecyclingScrollView.cs" />
+    <Compile Include="Assets\JJaery\Extension\ExtensionRectTransform.cs" />
+    <Compile Include="Assets\JJaery\Extension\MonoBehavior.cs" />
+    <Compile Include="Assets\JJaery\Extension\Trasnform.cs" />
+    <Compile Include="Assets\Script\TestRecyclingListItem.cs" />
+    <Compile Include="Assets\JJaery\uGUI\RecyclingScrollView\UIRecyclingScrollView.cs" />
+    <Compile Include="Assets\Script\TestScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
